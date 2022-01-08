@@ -1,0 +1,1282 @@
+Type,Region,Residence Type,Service Type,Year,Coverage,Population,Service level
+m49,Europe,total,Sanitation,2000,29.16417,211424076.28279,Basic service
+m49,Europe,rural,Sanitation,2000,43.1298,90462947.35272,Basic service
+m49,Europe,urban,Sanitation,2000,23.47854,120961129.01943,Basic service
+m49,Europe,total,Sanitation,2000,1.03821,7526422.54997,Limited service
+m49,Europe,rural,Sanitation,2000,1.13558,2381834.41932,Limited service
+m49,Europe,urban,Sanitation,2000,0.99856,5144588.1232,Limited service
+m49,Europe,total,Sanitation,2000,0.02483,179986.25797,Open defecation
+m49,Europe,rural,Sanitation,2000,0.06985,146501.11649,Open defecation
+m49,Europe,urban,Sanitation,2000,0.0065,33485.14236,Open defecation
+m49,Europe,total,Sanitation,2000,64.94009,470779605.34205,Safely managed service
+m49,Europe,rural,Sanitation,2000,43.53433,91311413.19279,Safely managed service
+m49,Europe,urban,Sanitation,2000,73.65473,379468190.9624,Safely managed service
+m49,Europe,total,Sanitation,2000,4.8327,35034390.56522,Unimproved
+m49,Europe,rural,Sanitation,2000,12.13044,25443091.40728,Unimproved
+m49,Europe,urban,Sanitation,2000,1.86167,9591301.5859,Unimproved
+m49,Europe,total,Drinking water,2000,8.80604,63838877.4464,Basic service
+m49,Europe,rural,Drinking water,2000,18.73935,39304995.31423,Basic service
+m49,Europe,urban,Drinking water,2000,4.76202,24533882.30966,Basic service
+m49,Europe,total,Drinking water,2000,0.37194,2696360.03371,Limited service
+m49,Europe,rural,Drinking water,2000,0.7036,1475766.47936,Limited service
+m49,Europe,urban,Drinking water,2000,0.23692,1220593.55923,Limited service
+m49,Europe,total,Drinking water,2000,89.39006,648028340.91637,Safely managed service
+m49,Europe,rural,Drinking water,2000,76.57435,160611470.99565,Safely managed service
+m49,Europe,urban,Drinking water,2000,94.60755,487416868.7267,Safely managed service
+m49,Europe,total,Drinking water,2000,0.19479,1412101.45203,Surface water
+m49,Europe,rural,Drinking water,2000,0.55724,1168778.39811,Surface water
+m49,Europe,urban,Drinking water,2000,0.04723,243323.06175,Surface water
+m49,Europe,total,Drinking water,2000,1.23717,8968801.15022,Unimproved
+m49,Europe,rural,Drinking water,2000,3.42547,7184776.30146,Unimproved
+m49,Europe,urban,Drinking water,2000,0.34628,1784027.17596,Unimproved
+m49,Europe,total,Sanitation,2001,23.70086,171868877.24679,Basic service
+m49,Europe,rural,Sanitation,2001,42.47326,88710870.68733,Basic service
+m49,Europe,urban,Sanitation,2001,23.26734,120128323.83359,Basic service
+m49,Europe,total,Sanitation,2001,1.00197,7265847.53558,Limited service
+m49,Europe,rural,Sanitation,2001,1.0733,2241715.06046,Limited service
+m49,Europe,urban,Sanitation,2001,0.97311,5024132.56088,Limited service
+m49,Europe,total,Sanitation,2001,0.02258,163725.26075,Open defecation
+m49,Europe,rural,Sanitation,2001,0.06332,132257.13476,Open defecation
+m49,Europe,urban,Sanitation,2001,0.00609,31468.128,Open defecation
+m49,Europe,total,Sanitation,2001,70.22819,509265834.91582,Safely managed service
+m49,Europe,rural,Sanitation,2001,43.52079,90898784.03298,Safely managed service
+m49,Europe,urban,Sanitation,2001,73.87174,381396741.81088,Safely managed service
+m49,Europe,total,Sanitation,2001,5.04641,36594462.34033,Unimproved
+m49,Europe,rural,Sanitation,2001,12.86933,26879252.12578,Unimproved
+m49,Europe,urban,Sanitation,2001,1.88171,9715204.42177,Unimproved
+m49,Europe,total,Drinking water,2001,8.72239,63251186.52482,Basic service
+m49,Europe,rural,Drinking water,2001,18.63621,38924122.4065,Basic service
+m49,Europe,urban,Drinking water,2001,4.71185,24327064.76168,Basic service
+m49,Europe,total,Drinking water,2001,0.37091,2689654.65571,Limited service
+m49,Europe,rural,Drinking water,2001,0.698,1457863.32053,Limited service
+m49,Europe,urban,Drinking water,2001,0.23858,1231791.36299,Limited service
+m49,Europe,total,Drinking water,2001,89.49615,648989141.74468,Safely managed service
+m49,Europe,rural,Drinking water,2001,76.72865,160257661.34475,Safely managed service
+m49,Europe,urban,Drinking water,2001,94.66113,488731488.27153,Safely managed service
+m49,Europe,total,Drinking water,2001,0.19359,1403810.15335,Surface water
+m49,Europe,rural,Drinking water,2001,0.55635,1162004.2266,Surface water
+m49,Europe,urban,Drinking water,2001,0.04683,241805.9397,Surface water
+m49,Europe,total,Drinking water,2001,1.21697,8824954.22144,Unimproved
+m49,Europe,rural,Drinking water,2001,3.3808,7061227.74273,Unimproved
+m49,Europe,urban,Drinking water,2001,0.34161,1763720.41818,Unimproved
+m49,Europe,total,Sanitation,2002,23.56652,171021915.06456,Basic service
+m49,Europe,rural,Sanitation,2002,42.53487,88360304.1042,Basic service
+m49,Europe,urban,Sanitation,2002,23.07517,119520744.31985,Basic service
+m49,Europe,total,Sanitation,2002,1.00129,7266320.24354,Limited service
+m49,Europe,rural,Sanitation,2002,1.07043,2223660.91895,Limited service
+m49,Europe,urban,Sanitation,2002,0.97356,5042659.34453,Limited service
+m49,Europe,total,Sanitation,2002,0.02073,150472.13919,Open defecation
+m49,Europe,rural,Sanitation,2002,0.05824,120982.81009,Open defecation
+m49,Europe,urban,Sanitation,2002,0.00569,29489.33011,Open defecation
+m49,Europe,total,Sanitation,2002,70.49666,511593344.15455,Safely managed service
+m49,Europe,rural,Sanitation,2002,43.73404,90851427.24503,Safely managed service
+m49,Europe,urban,Sanitation,2002,74.11401,383882785.09273,Safely managed service
+m49,Europe,total,Sanitation,2002,4.9148,35666627.29815,Unimproved
+m49,Europe,rural,Sanitation,2002,12.60242,26179791.97154,Unimproved
+m49,Europe,urban,Sanitation,2002,1.83157,9486834.06868,Unimproved
+m49,Europe,total,Drinking water,2002,8.62873,62618597.8229,Basic service
+m49,Europe,rural,Drinking water,2002,18.54061,38515557.87509,Basic service
+m49,Europe,urban,Drinking water,2002,4.65343,24103040.32674,Basic service
+m49,Europe,total,Drinking water,2002,0.37007,2685559.95544,Limited service
+m49,Europe,rural,Drinking water,2002,0.69935,1452795.45956,Limited service
+m49,Europe,urban,Drinking water,2002,0.238,1232764.5096,Limited service
+m49,Europe,total,Drinking water,2002,89.63318,650466822.64606,Safely managed service
+m49,Europe,rural,Drinking water,2002,76.9293,159809976.78159,Safely managed service
+m49,Europe,urban,Drinking water,2002,94.72825,490656847.21652,Safely managed service
+m49,Europe,total,Drinking water,2002,0.1927,1398397.30676,Surface water
+m49,Europe,rural,Drinking water,2002,0.55721,1157519.97221,Surface water
+m49,Europe,urban,Drinking water,2002,0.0465,240877.34593,Surface water
+m49,Europe,total,Drinking water,2002,1.17532,8529301.16883,Unimproved
+m49,Europe,rural,Drinking water,2002,3.27354,6800316.96116,Unimproved
+m49,Europe,urban,Drinking water,2002,0.3338,1728982.7566,Unimproved
+m49,Europe,total,Sanitation,2003,23.43278,170243865.40111,Basic service
+m49,Europe,rural,Sanitation,2003,42.59319,87991538.23923,Basic service
+m49,Europe,urban,Sanitation,2003,22.8867,118995764.06287,Basic service
+m49,Europe,total,Sanitation,2003,1.00215,7280802.13851,Limited service
+m49,Europe,rural,Sanitation,2003,1.071,2212537.22261,Limited service
+m49,Europe,urban,Sanitation,2003,0.97479,5068264.92505,Limited service
+m49,Europe,total,Sanitation,2003,0.01889,137275.14324,Open defecation
+m49,Europe,rural,Sanitation,2003,0.05317,109837.88748,Open defecation
+m49,Europe,urban,Sanitation,2003,0.00528,27437.25654,Open defecation
+m49,Europe,total,Sanitation,2003,70.76727,514138492.51776,Safely managed service
+m49,Europe,rural,Sanitation,2003,43.96114,90817528.47012,Safely managed service
+m49,Europe,urban,Sanitation,2003,74.35124,386577527.68329,Safely managed service
+m49,Europe,total,Sanitation,2003,4.77891,34719718.79866,Unimproved
+m49,Europe,rural,Sanitation,2003,12.3215,25454489.50656,Unimproved
+m49,Europe,urban,Sanitation,2003,1.782,9265229.71472,Unimproved
+m49,Europe,total,Drinking water,2003,8.52687,61949424.47394,Basic service
+m49,Europe,rural,Drinking water,2003,18.43009,38073975.15435,Basic service
+m49,Europe,urban,Drinking water,2003,4.59201,23875449.61758,Basic service
+m49,Europe,total,Drinking water,2003,0.37174,2700788.91168,Limited service
+m49,Europe,rural,Drinking water,2003,0.70072,1447581.81449,Limited service
+m49,Europe,urban,Drinking water,2003,0.24103,1253207.10767,Limited service
+m49,Europe,total,Drinking water,2003,89.77629,652242818.66233,Safely managed service
+m49,Europe,rural,Drinking water,2003,77.14568,159372115.88416,Safely managed service
+m49,Europe,urban,Drinking water,2003,94.79482,492870703.16318,Safely managed service
+m49,Europe,total,Drinking water,2003,0.19165,1392400.53396,Surface water
+m49,Europe,rural,Drinking water,2003,0.55783,1152402.37397,Surface water
+m49,Europe,urban,Drinking water,2003,0.04616,239998.16967,Surface water
+m49,Europe,total,Drinking water,2003,1.13345,8234721.41882,Unimproved
+m49,Europe,rural,Drinking water,2003,3.16568,6539856.09903,Unimproved
+m49,Europe,urban,Drinking water,2003,0.32598,1694865.58438,Unimproved
+m49,Europe,total,Sanitation,2004,23.23039,169009156.4882,Basic service
+m49,Europe,rural,Sanitation,2004,42.62332,87568453.79552,Basic service
+m49,Europe,urban,Sanitation,2004,22.6406,118203722.99673,Basic service
+m49,Europe,total,Sanitation,2004,0.99554,7242892.00059,Limited service
+m49,Europe,rural,Sanitation,2004,1.0653,2188623.34771,Limited service
+m49,Europe,urban,Sanitation,2004,0.96809,5054268.6545,Limited service
+m49,Europe,total,Sanitation,2004,0.01512,110009.45164,Open defecation
+m49,Europe,rural,Sanitation,2004,0.04811,98833.04986,Open defecation
+m49,Europe,urban,Sanitation,2004,0.00214,11176.40216,Open defecation
+m49,Europe,total,Sanitation,2004,71.11396,517378763.96583,Safely managed service
+m49,Europe,rural,Sanitation,2004,44.22554,90860166.7031,Safely managed service
+m49,Europe,urban,Sanitation,2004,74.65331,389755576.80369,Safely managed service
+m49,Europe,total,Sanitation,2004,4.64499,33793891.59374,Unimproved
+m49,Europe,rural,Sanitation,2004,12.03773,24731195.26501,Unimproved
+m49,Europe,urban,Sanitation,2004,1.73586,9062699.99263,Unimproved
+m49,Europe,total,Drinking water,2004,8.1952,59622894.94853,Basic service
+m49,Europe,rural,Drinking water,2004,17.5566,36069561.71839,Basic service
+m49,Europe,urban,Drinking water,2004,4.51138,23553333.41587,Basic service
+m49,Europe,total,Drinking water,2004,0.41104,2990479.50405,Limited service
+m49,Europe,rural,Drinking water,2004,0.70209,1442419.65515,Limited service
+m49,Europe,urban,Drinking water,2004,0.29651,1548059.85498,Limited service
+m49,Europe,total,Drinking water,2004,90.11181,655594701.74335,Safely managed service
+m49,Europe,rural,Drinking water,2004,78.12616,160508074.41056,Safely managed service
+m49,Europe,urban,Drinking water,2004,94.8283,495086627.0891,Safely managed service
+m49,Europe,total,Drinking water,2004,0.19059,1386636.41182,Surface water
+m49,Europe,rural,Drinking water,2004,0.55847,1147366.38821,Surface water
+m49,Europe,urban,Drinking water,2004,0.04583,239270.03108,Surface water
+m49,Europe,total,Drinking water,2004,1.09136,7940000.89153,Unimproved
+m49,Europe,rural,Drinking water,2004,3.05667,6279849.9891,Unimproved
+m49,Europe,urban,Drinking water,2004,0.31798,1660154.45866,Unimproved
+m49,Europe,total,Sanitation,2005,23.00197,167608823.92901,Basic service
+m49,Europe,rural,Sanitation,2005,42.65635,87150847.4553,Basic service
+m49,Europe,urban,Sanitation,2005,22.39969,117455534.45923,Basic service
+m49,Europe,total,Sanitation,2005,0.98563,7181970.79506,Limited service
+m49,Europe,rural,Sanitation,2005,1.05384,2153093.82966,Limited service
+m49,Europe,urban,Sanitation,2005,0.95905,5028877.03936,Limited service
+m49,Europe,total,Sanitation,2005,0.01344,97911.2751,Open defecation
+m49,Europe,rural,Sanitation,2005,0.04286,87565.18381,Open defecation
+m49,Europe,urban,Sanitation,2005,0.00197,10346.09231,Open defecation
+m49,Europe,total,Sanitation,2005,71.48916,520921116.64646,Safely managed service
+m49,Europe,rural,Sanitation,2005,44.49389,90905101.62917,Safely managed service
+m49,Europe,urban,Sanitation,2005,74.9517,393018464.14645,Safely managed service
+m49,Europe,total,Sanitation,2005,4.50981,32861675.15364,Unimproved
+m49,Europe,rural,Sanitation,2005,11.75306,24012573.72956,Unimproved
+m49,Europe,urban,Sanitation,2005,1.68759,8849100.98455,Unimproved
+m49,Europe,total,Drinking water,2005,7.78265,56709916.43063,Basic service
+m49,Europe,rural,Drinking water,2005,16.57668,33867686.90456,Basic service
+m49,Europe,urban,Drinking water,2005,4.35619,22842230.08041,Basic service
+m49,Europe,total,Drinking water,2005,0.40931,2982520.13408,Limited service
+m49,Europe,rural,Drinking water,2005,0.6307,1288568.18844,Limited service
+m49,Europe,urban,Drinking water,2005,0.32305,1693951.97545,Limited service
+m49,Europe,total,Drinking water,2005,90.63228,660411607.49098,Safely managed service
+m49,Europe,rural,Drinking water,2005,79.50795,162442039.36581,Safely managed service
+m49,Europe,urban,Drinking water,2005,94.9667,497969574.96301,Safely managed service
+m49,Europe,total,Drinking water,2005,0.16206,1180909.50832,Surface water
+m49,Europe,rural,Drinking water,2005,0.47468,969817.81396,Surface water
+m49,Europe,urban,Drinking water,2005,0.04026,211091.70547,Surface water
+m49,Europe,total,Drinking water,2005,1.0137,7386544.23599,Unimproved
+m49,Europe,rural,Drinking water,2005,2.80999,5741069.55493,Unimproved
+m49,Europe,urban,Drinking water,2005,0.3138,1645473.99756,Unimproved
+m49,Europe,total,Sanitation,2006,22.83898,166849415.48738,Basic service
+m49,Europe,rural,Sanitation,2006,42.79915,87064389.09081,Basic service
+m49,Europe,urban,Sanitation,2006,22.2219,117136370.16053,Basic service
+m49,Europe,total,Sanitation,2006,0.97743,7140592.47866,Limited service
+m49,Europe,rural,Sanitation,2006,1.04484,2125463.95247,Limited service
+m49,Europe,urban,Sanitation,2006,0.95142,5015128.52297,Limited service
+m49,Europe,total,Sanitation,2006,0.01191,86972.20224,Open defecation
+m49,Europe,rural,Sanitation,2006,0.03788,77054.66442,Open defecation
+m49,Europe,urban,Sanitation,2006,0.00188,9917.53748,Open defecation
+m49,Europe,total,Sanitation,2006,71.81633,524651965.81151,Safely managed service
+m49,Europe,rural,Sanitation,2006,44.71922,90970305.99197,Safely managed service
+m49,Europe,urban,Sanitation,2006,75.18768,396330315.97097,Safely managed service
+m49,Europe,total,Sanitation,2006,4.35536,31817909.92093,Unimproved
+m49,Europe,rural,Sanitation,2006,11.39892,23188312.90043,Unimproved
+m49,Europe,urban,Sanitation,2006,1.63712,8629600.05005,Unimproved
+m49,Europe,total,Drinking water,2006,7.47059,54576172.88741,Basic service
+m49,Europe,rural,Drinking water,2006,15.73182,32002533.1548,Basic service
+m49,Europe,urban,Drinking water,2006,4.28244,22573639.58935,Basic service
+m49,Europe,total,Drinking water,2006,0.44081,3220330.13243,Limited service
+m49,Europe,rural,Drinking water,2006,0.62988,1281331.28037,Limited service
+m49,Europe,urban,Drinking water,2006,0.36785,1938998.84787,Limited service
+m49,Europe,total,Drinking water,2006,90.95022,664433951.87542,Safely managed service
+m49,Europe,rural,Drinking water,2006,80.44835,163652472.33985,Safely managed service
+m49,Europe,urban,Drinking water,2006,95.00308,500781479.51099,Safely managed service
+m49,Europe,total,Drinking water,2006,0.16116,1177375.88442,Surface water
+m49,Europe,rural,Drinking water,2006,0.47492,966100.78747,Surface water
+m49,Europe,urban,Drinking water,2006,0.04008,211275.0916,Surface water
+m49,Europe,total,Drinking water,2006,0.97722,7139025.12033,Unimproved
+m49,Europe,rural,Drinking water,2006,2.71504,5523089.0374,Unimproved
+m49,Europe,urban,Drinking water,2006,0.30656,1615939.20166,Unimproved
+m49,Europe,total,Sanitation,2007,22.63681,165687541.60592,Basic service
+m49,Europe,rural,Sanitation,2007,42.89288,86794748.30614,Basic service
+m49,Europe,urban,Sanitation,2007,21.9921,116467113.42168,Basic service
+m49,Europe,total,Sanitation,2007,0.96768,7082854.90336,Limited service
+m49,Europe,rural,Sanitation,2007,1.03414,2092597.68131,Limited service
+m49,Europe,urban,Sanitation,2007,0.94229,4990257.24399,Limited service
+m49,Europe,total,Sanitation,2007,0.01027,75170.70081,Open defecation
+m49,Europe,rural,Sanitation,2007,0.03269,66155.21175,Open defecation
+m49,Europe,urban,Sanitation,2007,0.0017,9015.48915,Open defecation
+m49,Europe,total,Sanitation,2007,72.183,528335221.49317,Safely managed service
+m49,Europe,rural,Sanitation,2007,44.99027,91038851.70676,Safely managed service
+m49,Europe,urban,Sanitation,2007,75.47818,399722051.85025,Safely managed service
+m49,Europe,total,Sanitation,2007,4.20223,30757773.79674,Unimproved
+m49,Europe,rural,Sanitation,2007,11.05002,22359975.21903,Unimproved
+m49,Europe,urban,Sanitation,2007,1.58573,8397798.8584,Unimproved
+m49,Europe,total,Drinking water,2007,7.16208,52422030.34354,Basic service
+m49,Europe,rural,Drinking water,2007,14.87996,30109941.92732,Basic service
+m49,Europe,urban,Drinking water,2007,4.21312,22312088.53017,Basic service
+m49,Europe,total,Drinking water,2007,0.46977,3438406.36634,Limited service
+m49,Europe,rural,Drinking water,2007,0.62705,1268844.15093,Limited service
+m49,Europe,urban,Drinking water,2007,0.40967,2169562.2254,Limited service
+m49,Europe,total,Drinking water,2007,91.26716,668019539.45166,Safely managed service
+m49,Europe,rural,Drinking water,2007,81.39833,164711410.34029,Safely managed service
+m49,Europe,urban,Drinking water,2007,95.03799,503308131.23559,Safely managed service
+m49,Europe,total,Drinking water,2007,0.1603,1173282.53291,Surface water
+m49,Europe,rural,Drinking water,2007,0.47567,962529.34449,Surface water
+m49,Europe,urban,Drinking water,2007,0.0398,210753.1898,Surface water
+m49,Europe,total,Drinking water,2007,0.94069,6885303.80628,Unimproved
+m49,Europe,rural,Drinking water,2007,2.619,5299602.36197,Unimproved
+m49,Europe,urban,Drinking water,2007,0.29942,1585701.68357,Unimproved
+m49,Europe,total,Sanitation,2008,22.43279,164525804.43206,Basic service
+m49,Europe,rural,Sanitation,2008,42.97502,86508340.76969,Basic service
+m49,Europe,urban,Sanitation,2008,21.76154,115796959.29094,Basic service
+m49,Europe,total,Sanitation,2008,0.9581,7026838.59957,Limited service
+m49,Europe,rural,Sanitation,2008,1.02389,2061083.45523,Limited service
+m49,Europe,urban,Sanitation,2008,0.93321,4965755.1018,Limited service
+m49,Europe,total,Sanitation,2008,0.00867,63617.99712,Open defecation
+m49,Europe,rural,Sanitation,2008,0.02758,55527.69625,Open defecation
+m49,Europe,urban,Sanitation,2008,0.00152,8090.30091,Open defecation
+m49,Europe,total,Sanitation,2008,72.54857,532083150.48614,Safely managed service
+m49,Europe,rural,Sanitation,2008,45.26956,91127222.65658,Safely managed service
+m49,Europe,urban,Sanitation,2008,75.76833,403176427.57535,Safely managed service
+m49,Europe,total,Sanitation,2008,4.05187,29717079.38585,Unimproved
+m49,Europe,rural,Sanitation,2008,10.70394,21546938.48495,Unimproved
+m49,Europe,urban,Sanitation,2008,1.5354,8170145.92599,Unimproved
+m49,Europe,total,Drinking water,2008,6.85945,50308350.57066,Basic service
+m49,Europe,rural,Drinking water,2008,14.03098,28244240.36997,Basic service
+m49,Europe,urban,Drinking water,2008,4.14647,22064110.13155,Basic service
+m49,Europe,total,Drinking water,2008,0.50144,3677663.43808,Limited service
+m49,Europe,rural,Drinking water,2008,0.63457,1277375.6062,Limited service
+m49,Europe,urban,Drinking water,2008,0.45108,2400287.81324,Limited service
+m49,Europe,total,Drinking water,2008,91.58075,671668338.2809,Safely managed service
+m49,Europe,rural,Drinking water,2008,82.35592,165781733.13888,Safely managed service
+m49,Europe,urban,Drinking water,2008,95.07049,505886600.58751,Safely managed service
+m49,Europe,total,Drinking water,2008,0.03526,258584.03618,Surface water
+m49,Europe,rural,Drinking water,2008,0.02371,47727.58228,Surface water
+m49,Europe,urban,Drinking water,2008,0.03963,210856.45129,Surface water
+m49,Europe,total,Drinking water,2008,1.0231,7503554.57418,Unimproved
+m49,Europe,rural,Drinking water,2008,2.95482,5948036.36517,Unimproved
+m49,Europe,urban,Drinking water,2008,0.29233,1555523.21088,Unimproved
+m49,Europe,total,Sanitation,2009,22.06046,162127481.08344,Basic service
+m49,Europe,rural,Sanitation,2009,43.00856,86127850.75084,Basic service
+m49,Europe,urban,Sanitation,2009,21.31229,113949579.62319,Basic service
+m49,Europe,total,Sanitation,2009,0.94843,6970213.44927,Limited service
+m49,Europe,rural,Sanitation,2009,1.01359,2029797.88879,Limited service
+m49,Europe,urban,Sanitation,2009,0.92402,4940415.51439,Limited service
+m49,Europe,total,Sanitation,2009,0.00713,52377.26648,Open defecation
+m49,Europe,rural,Sanitation,2009,0.02259,45228.43748,Open defecation
+m49,Europe,urban,Sanitation,2009,0.00134,7148.829,Open defecation
+m49,Europe,total,Sanitation,2009,73.07897,537074451.82654,Safely managed service
+m49,Europe,rural,Sanitation,2009,45.59304,91303452.82698,Safely managed service
+m49,Europe,urban,Sanitation,2009,76.27586,407821044.89469,Safely managed service
+m49,Europe,total,Sanitation,2009,3.90502,28698871.67354,Unimproved
+m49,Europe,rural,Sanitation,2009,10.36222,20751121.94701,Unimproved
+m49,Europe,urban,Sanitation,2009,1.48649,7947750.11133,Unimproved
+m49,Europe,total,Drinking water,2009,6.56421,48241937.59229,Basic service
+m49,Europe,rural,Drinking water,2009,13.191,26415952.4964,Basic service
+m49,Europe,urban,Drinking water,2009,4.08217,21825984.85721,Basic service
+m49,Europe,total,Drinking water,2009,0.52811,3881174.08445,Limited service
+m49,Europe,rural,Drinking water,2009,0.62416,1249933.91468,Limited service
+m49,Europe,urban,Drinking water,2009,0.49213,2631240.14413,Limited service
+m49,Europe,total,Drinking water,2009,91.88357,675273831.27455,Safely managed service
+m49,Europe,rural,Drinking water,2009,83.29503,166804501.77962,Safely managed service
+m49,Europe,urban,Drinking water,2009,95.10038,508469324.81536,Safely managed service
+m49,Europe,total,Drinking water,2009,0.03533,259637.94012,Surface water
+m49,Europe,rural,Drinking water,2009,0.02424,48540.34528,Surface water
+m49,Europe,urban,Drinking water,2009,0.03948,211097.59252,Surface water
+m49,Europe,total,Drinking water,2009,0.98879,7266814.40859,Unimproved
+m49,Europe,rural,Drinking water,2009,2.86557,5738523.31473,Unimproved
+m49,Europe,urban,Drinking water,2009,0.28584,1528291.56338,Unimproved
+m49,Europe,total,Sanitation,2010,21.68108,159662296.46036,Basic service
+m49,Europe,rural,Sanitation,2010,43.0444,85770224.73238,Basic service
+m49,Europe,urban,Sanitation,2010,20.85308,112012962.31648,Basic service
+m49,Europe,total,Sanitation,2010,0.93914,6915974.70333,Limited service
+m49,Europe,rural,Sanitation,2010,1.00471,2001975.46948,Limited service
+m49,Europe,urban,Sanitation,2010,0.91482,4913999.26016,Limited service
+m49,Europe,total,Sanitation,2010,0.00601,44242.04128,Open defecation
+m49,Europe,rural,Sanitation,2010,0.01909,38043.19805,Open defecation
+m49,Europe,urban,Sanitation,2010,0.00115,6198.84358,Open defecation
+m49,Europe,total,Sanitation,2010,73.61237,542091042.2118,Safely managed service
+m49,Europe,rural,Sanitation,2010,45.90929,91478785.72537,Safely managed service
+m49,Europe,urban,Sanitation,2010,76.79214,412491368.25791,Safely managed service
+m49,Europe,total,Sanitation,2010,3.7614,27699432.58397,Unimproved
+m49,Europe,rural,Sanitation,2010,10.02251,19970847.86722,Unimproved
+m49,Europe,urban,Sanitation,2010,1.4388,7728581.18827,Unimproved
+m49,Europe,total,Drinking water,2010,6.28074,46252214.75565,Basic service
+m49,Europe,rural,Drinking water,2010,12.37315,24654713.90303,Basic service
+m49,Europe,urban,Drinking water,2010,4.02073,21597501.1867,Basic service
+m49,Europe,total,Drinking water,2010,0.55406,4080161.83259,Limited service
+m49,Europe,rural,Drinking water,2010,0.61214,1219756.27513,Limited service
+m49,Europe,urban,Drinking water,2010,0.53251,2860405.57414,Limited service
+m49,Europe,total,Drinking water,2010,92.18553,678866248.03859,Safely managed service
+m49,Europe,rural,Drinking water,2010,84.24463,167865745.29442,Safely managed service
+m49,Europe,urban,Drinking water,2010,95.13126,511000504.97768,Safely managed service
+m49,Europe,total,Drinking water,2010,0.03497,257494.82816,Surface water
+m49,Europe,rural,Drinking water,2010,0.02311,46043.70468,Surface water
+m49,Europe,urban,Drinking water,2010,0.03937,211451.12421,Surface water
+m49,Europe,total,Drinking water,2010,0.9447,6956868.54502,Unimproved
+m49,Europe,rural,Drinking water,2010,2.74697,5473617.81544,Unimproved
+m49,Europe,urban,Drinking water,2010,0.27613,1483247.00367,Unimproved
+m49,Europe,total,Sanitation,2011,21.29872,157152781.08687,Basic service
+m49,Europe,rural,Sanitation,2011,43.05927,85364768.05636,Basic service
+m49,Europe,urban,Sanitation,2011,20.39453,110049131.75995,Basic service
+m49,Europe,total,Sanitation,2011,0.92989,6861214.37452,Limited service
+m49,Europe,rural,Sanitation,2011,0.9962,1974969.93008,Limited service
+m49,Europe,urban,Sanitation,2011,0.90553,4886244.46235,Limited service
+m49,Europe,total,Sanitation,2011,0.00512,37772.6202,Open defecation
+m49,Europe,rural,Sanitation,2011,0.01633,32366.40527,Open defecation
+m49,Europe,urban,Sanitation,2011,0.001,5406.21559,Open defecation
+m49,Europe,total,Sanitation,2011,74.14525,547081199.35588,Safely managed service
+m49,Europe,rural,Sanitation,2011,46.24108,91672704.87205,Safely managed service
+m49,Europe,urban,Sanitation,2011,77.30661,417147377.43354,Safely managed service
+m49,Europe,total,Sanitation,2011,3.62102,26717684.56252,Unimproved
+m49,Europe,rural,Sanitation,2011,9.68712,19204665.19913,Unimproved
+m49,Europe,urban,Sanitation,2011,1.39233,7513013.7516,Unimproved
+m49,Europe,total,Drinking water,2011,6.00357,44297411.06958,Basic service
+m49,Europe,rural,Drinking water,2011,11.56074,22919100.17386,Basic service
+m49,Europe,urban,Drinking water,2011,3.96187,21378311.06861,Basic service
+m49,Europe,total,Drinking water,2011,0.57999,4279493.65064,Limited service
+m49,Europe,rural,Drinking water,2011,0.60041,1190305.3238,Limited service
+m49,Europe,urban,Drinking water,2011,0.57249,3089188.33759,Limited service
+m49,Europe,total,Drinking water,2011,92.48056,682368403.61979,Safely managed service
+m49,Europe,rural,Drinking water,2011,85.18805,168884858.97507,Safely managed service
+m49,Europe,urban,Drinking water,2011,95.15983,513483546.25644,Safely managed service
+m49,Europe,total,Drinking water,2011,0.03511,259075.7501,Surface water
+m49,Europe,rural,Drinking water,2011,0.02379,47165.518,Surface water
+m49,Europe,urban,Drinking water,2011,0.03927,211910.2325,Surface water
+m49,Europe,total,Drinking water,2011,0.90076,6646267.91062,Unimproved
+m49,Europe,rural,Drinking water,2011,2.62702,5208044.47197,Unimproved
+m49,Europe,urban,Drinking water,2011,0.26653,1438217.72736,Unimproved
+m49,Europe,total,Sanitation,2012,20.92671,154695478.59627,Basic service
+m49,Europe,rural,Sanitation,2012,43.07959,84986680.22606,Basic service
+m49,Europe,urban,Sanitation,2012,19.94769,108105894.00613,Basic service
+m49,Europe,total,Sanitation,2012,0.92072,6806213.06384,Limited service
+m49,Europe,rural,Sanitation,2012,0.98853,1950156.59021,Limited service
+m49,Europe,urban,Sanitation,2012,0.89604,4856056.4266,Limited service
+m49,Europe,total,Sanitation,2012,0.00439,32478.42169,Open defecation
+m49,Europe,rural,Sanitation,2012,0.01391,27443.41426,Open defecation
+m49,Europe,urban,Sanitation,2012,0.00093,5035.00747,Open defecation
+m49,Europe,total,Sanitation,2012,74.6643,551937306.75786,Safely managed service
+m49,Europe,rural,Sanitation,2012,46.56391,91860471.62455,Safely managed service
+m49,Europe,urban,Sanitation,2012,77.80831,421679734.52061,Safely managed service
+m49,Europe,total,Sanitation,2012,3.48388,25753689.05961,Unimproved
+m49,Europe,rural,Sanitation,2012,9.35406,18453523.76672,Unimproved
+m49,Europe,urban,Sanitation,2012,1.34703,7300172.90625,Unimproved
+m49,Europe,total,Drinking water,2012,5.73523,42396287.51667,Basic service
+m49,Europe,rural,Drinking water,2012,10.75091,21209213.21319,Basic service
+m49,Europe,urban,Drinking water,2012,3.90944,21187074.04424,Basic service
+m49,Europe,total,Drinking water,2012,0.60584,4478518.32543,Limited service
+m49,Europe,rural,Drinking water,2012,0.58876,1161499.44102,Limited service
+m49,Europe,urban,Drinking water,2012,0.61206,3317018.85289,Limited service
+m49,Europe,total,Drinking water,2012,92.76519,685743628.30886,Safely managed service
+m49,Europe,rural,Drinking water,2012,86.12877,169913359.22968,Safely managed service
+m49,Europe,urban,Drinking water,2012,95.18096,515830264.24363,Safely managed service
+m49,Europe,total,Drinking water,2012,0.03529,260869.185,Surface water
+m49,Europe,rural,Drinking water,2012,0.02451,48360.12357,Surface water
+m49,Europe,urban,Drinking water,2012,0.03921,212509.05944,Surface water
+m49,Europe,total,Drinking water,2012,0.85845,6345862.56329,Unimproved
+m49,Europe,rural,Drinking water,2012,2.50704,4945843.61414,Unimproved
+m49,Europe,urban,Drinking water,2012,0.25833,1400026.66686,Unimproved
+m49,Europe,total,Sanitation,2013,25.76847,190826313.89127,Basic service
+m49,Europe,rural,Sanitation,2013,43.1128,84617978.71389,Basic service
+m49,Europe,urban,Sanitation,2013,19.51388,106208333.38671,Basic service
+m49,Europe,total,Sanitation,2013,0.91154,6750303.48934,Limited service
+m49,Europe,rural,Sanitation,2013,0.98142,1926250.81926,Limited service
+m49,Europe,urban,Sanitation,2013,0.88633,4824052.60174,Limited service
+m49,Europe,total,Sanitation,2013,0.0033,24449.93958,Open defecation
+m49,Europe,rural,Sanitation,2013,0.01009,19797.48662,Open defecation
+m49,Europe,urban,Sanitation,2013,0.00085,4652.45296,Open defecation
+m49,Europe,total,Sanitation,2013,69.96756,518139073.02846,Safely managed service
+m49,Europe,rural,Sanitation,2013,46.87158,91995377.6189,Safely managed service
+m49,Europe,urban,Sanitation,2013,78.29627,426143689.94962,Safely managed service
+m49,Europe,total,Sanitation,2013,3.34913,24801740.75134,Unimproved
+m49,Europe,rural,Sanitation,2013,9.02411,17711730.00292,Unimproved
+m49,Europe,urban,Sanitation,2013,1.30266,7090012.7725,Unimproved
+m49,Europe,total,Drinking water,2013,5.50038,40732624.11491,Basic service
+m49,Europe,rural,Drinking water,2013,10.04896,19723203.55729,Basic service
+m49,Europe,urban,Drinking water,2013,3.8601,21009420.18224,Basic service
+m49,Europe,total,Drinking water,2013,0.61366,4544420.40458,Limited service
+m49,Europe,rural,Drinking water,2013,0.51295,1006776.17043,Limited service
+m49,Europe,urban,Drinking water,2013,0.64998,3537644.18724,Limited service
+m49,Europe,total,Drinking water,2013,93.03288,688947451.21853,Safely managed service
+m49,Europe,rural,Drinking water,2013,87.02714,170809164.42721,Safely managed service
+m49,Europe,urban,Drinking water,2013,95.19863,518138279.7416,Safely managed service
+m49,Europe,total,Drinking water,2013,0.03549,262818.73645,Surface water
+m49,Europe,rural,Drinking water,2013,0.02528,49612.51457,Surface water
+m49,Europe,urban,Drinking water,2013,0.03917,213206.21898,Surface water
+m49,Europe,total,Drinking water,2013,0.81759,6054566.62626,Unimproved
+m49,Europe,rural,Drinking water,2013,2.38567,4682377.9721,Unimproved
+m49,Europe,urban,Drinking water,2013,0.25212,1372190.83349,Unimproved
+m49,Europe,total,Sanitation,2014,25.42591,188614053.85229,Basic service
+m49,Europe,rural,Sanitation,2014,43.16475,84284215.36245,Basic service
+m49,Europe,urban,Sanitation,2014,19.08857,104329838.18822,Basic service
+m49,Europe,total,Sanitation,2014,0.90233,6693643.84155,Limited service
+m49,Europe,rural,Sanitation,2014,0.97465,1903124.47104,Limited service
+m49,Europe,urban,Sanitation,2014,0.87649,4790519.36475,Limited service
+m49,Europe,total,Sanitation,2014,0.0029,21489.94164,Open defecation
+m49,Europe,rural,Sanitation,2014,0.00961,18773.49464,Open defecation
+m49,Europe,urban,Sanitation,2014,0.0005,2716.44695,Open defecation
+m49,Europe,total,Sanitation,2014,70.45471,522645892.52675,Safely managed service
+m49,Europe,rural,Sanitation,2014,47.16524,92095648.84015,Safely managed service
+m49,Europe,urban,Sanitation,2014,78.77505,430550243.42474,Safely managed service
+m49,Europe,total,Sanitation,2014,3.21416,23843205.83777,Unimproved
+m49,Europe,rural,Sanitation,2014,8.68574,16959928.77203,Unimproved
+m49,Europe,urban,Sanitation,2014,1.25939,6883278.72215,Unimproved
+m49,Europe,total,Drinking water,2014,5.4149,40168753.79711,Basic service
+m49,Europe,rural,Drinking water,2014,9.89831,19327612.30406,Basic service
+m49,Europe,urban,Drinking water,2014,3.81317,20841141.42361,Basic service
+m49,Europe,total,Drinking water,2014,0.63888,4739359.87389,Limited service
+m49,Europe,rural,Drinking water,2014,0.50725,990459.52343,Limited service
+m49,Europe,urban,Drinking water,2014,0.68591,3748900.34813,Limited service
+m49,Europe,total,Drinking water,2014,93.13224,690871974.76364,Safely managed service
+m49,Europe,rural,Drinking water,2014,87.30266,170468644.57499,Safely managed service
+m49,Europe,urban,Drinking water,2014,95.2149,520403329.64479,Safely managed service
+m49,Europe,total,Drinking water,2014,0.04711,349449.27616,Surface water
+m49,Europe,rural,Drinking water,2014,0.02607,50898.25967,Surface water
+m49,Europe,urban,Drinking water,2014,0.05462,298551.0166,Surface water
+m49,Europe,total,Drinking water,2014,0.76687,5688748.28845,Unimproved
+m49,Europe,rural,Drinking water,2014,2.26572,4424076.27815,Unimproved
+m49,Europe,urban,Drinking water,2014,0.23139,1264673.71367,Unimproved
+m49,Europe,total,Sanitation,2015,19.89849,147857542.90001,Basic service
+m49,Europe,rural,Sanitation,2015,43.17707,83855888.74741,Basic service
+m49,Europe,urban,Sanitation,2015,18.64134,102312077.11721,Basic service
+m49,Europe,total,Sanitation,2015,0.89869,6677790.29,Limited service
+m49,Europe,rural,Sanitation,2015,0.9695,1882897.91896,Limited service
+m49,Europe,urban,Sanitation,2015,0.87363,4794892.29694,Limited service
+m49,Europe,total,Sanitation,2015,0.0027,20098.14776,Open defecation
+m49,Europe,rural,Sanitation,2015,0.00896,17399.76307,Open defecation
+m49,Europe,urban,Sanitation,2015,0.00049,2698.38462,Open defecation
+m49,Europe,total,Sanitation,2015,76.12052,565620372.50105,Safely managed service
+m49,Europe,rural,Sanitation,2015,47.50111,92253769.55617,Safely managed service
+m49,Europe,urban,Sanitation,2015,79.26758,435056172.26724,Safely managed service
+m49,Europe,total,Sanitation,2015,3.07959,22883173.66117,Unimproved
+m49,Europe,rural,Sanitation,2015,8.34336,16203969.29798,Unimproved
+m49,Europe,urban,Sanitation,2015,1.21696,6679211.52808,Unimproved
+m49,Europe,total,Drinking water,2015,5.38633,40023630.03402,Basic service
+m49,Europe,rural,Drinking water,2015,9.85881,19147176.37663,Basic service
+m49,Europe,urban,Drinking water,2015,3.80371,20876453.14007,Basic service
+m49,Europe,total,Drinking water,2015,0.63049,4684935.42528,Limited service
+m49,Europe,rural,Drinking water,2015,0.49986,970797.98426,Limited service
+m49,Europe,urban,Drinking water,2015,0.67672,3714137.39234,Limited service
+m49,Europe,total,Drinking water,2015,93.20679,692581429.92027,Safely managed service
+m49,Europe,rural,Drinking water,2015,87.46337,169866037.39631,Safely managed service
+m49,Europe,urban,Drinking water,2015,95.23915,522715385.04739,Safely managed service
+m49,Europe,total,Drinking water,2015,0.04881,362714.01389,Surface water
+m49,Europe,rural,Drinking water,2015,0.02762,53645.32763,Surface water
+m49,Europe,urban,Drinking water,2015,0.05631,309068.68307,Surface water
+m49,Europe,total,Drinking water,2015,0.72757,5406268.1058,Unimproved
+m49,Europe,rural,Drinking water,2015,2.15034,4176268.19896,Unimproved
+m49,Europe,urban,Drinking water,2015,0.22411,1230007.33178,Unimproved
+m49,Europe,total,Sanitation,2016,19.57316,145676940.59545,Basic service
+m49,Europe,rural,Sanitation,2016,43.19578,83413717.63229,Basic service
+m49,Europe,urban,Sanitation,2016,18.21145,100374710.63266,Basic service
+m49,Europe,total,Sanitation,2016,0.89514,6662225.41898,Limited service
+m49,Europe,rural,Sanitation,2016,0.96452,1862553.67548,Limited service
+m49,Europe,urban,Sanitation,2016,0.87083,4799671.7625,Limited service
+m49,Europe,total,Sanitation,2016,0.00212,15815.4783,Open defecation
+m49,Europe,rural,Sanitation,2016,0.00804,15532.30301,Open defecation
+m49,Europe,urban,Sanitation,2016,0.00005,283.17523,Open defecation
+m49,Europe,total,Sanitation,2016,76.58483,569996982.18479,Safely managed service
+m49,Europe,rural,Sanitation,2016,47.83615,92374565.77819,Safely managed service
+m49,Europe,urban,Sanitation,2016,79.74251,439510930.45476,Safely managed service
+m49,Europe,total,Sanitation,2016,2.94475,21916836.52248,Unimproved
+m49,Europe,rural,Sanitation,2016,7.99551,15439814.78492,Unimproved
+m49,Europe,urban,Sanitation,2016,1.17516,6477019.54964,Unimproved
+m49,Europe,total,Drinking water,2016,5.35798,39877793.62022,Basic service
+m49,Europe,rural,Drinking water,2016,9.81832,18959790.77931,Basic service
+m49,Europe,urban,Drinking water,2016,3.79525,20918003.06988,Basic service
+m49,Europe,total,Drinking water,2016,0.62204,4629673.92877,Limited service
+m49,Europe,rural,Drinking water,2016,0.49262,951280.98003,Limited service
+m49,Europe,urban,Drinking water,2016,0.66739,3678392.95732,Limited service
+m49,Europe,total,Drinking water,2016,93.28119,694262771.26149,Safely managed service
+m49,Europe,rural,Drinking water,2016,87.62635,169211896.73379,Safely managed service
+m49,Europe,urban,Drinking water,2016,95.26243,525050876.17526,Safely managed service
+m49,Europe,total,Drinking water,2016,0.0505,375852.57873,Surface water
+m49,Europe,rural,Drinking water,2016,0.02919,56369.24542,Surface water
+m49,Europe,urban,Drinking water,2016,0.05797,319483.33368,Surface water
+m49,Europe,total,Drinking water,2016,0.68829,5122708.81005,Unimproved
+m49,Europe,rural,Drinking water,2016,2.03352,3926846.43536,Unimproved
+m49,Europe,urban,Drinking water,2016,0.21697,1195860.03977,Unimproved
+m49,Europe,total,Sanitation,2017,19.26099,143574268.55115,Basic service
+m49,Europe,rural,Sanitation,2017,43.17857,82872755.3906,Basic service
+m49,Europe,urban,Sanitation,2017,17.79497,98492418.90992,Basic service
+m49,Europe,total,Sanitation,2017,0.89154,6645706.75918,Limited service
+m49,Europe,rural,Sanitation,2017,0.95946,1841485.56589,Limited service
+m49,Europe,urban,Sanitation,2017,0.868,4804221.254,Limited service
+m49,Europe,total,Sanitation,2017,0.00191,14233.89609,Open defecation
+m49,Europe,rural,Sanitation,2017,0.00742,14233.89653,Open defecation
+m49,Europe,urban,Sanitation,2017,0,0,Open defecation
+m49,Europe,total,Sanitation,2017,77.01997,574118233.26909,Safely managed service
+m49,Europe,rural,Sanitation,2017,48.14984,92414131.30164,Safely managed service
+m49,Europe,urban,Sanitation,2017,80.20337,443913202.73831,Safely managed service
+m49,Europe,total,Sanitation,2017,2.82558,21062316.92449,Unimproved
+m49,Europe,rural,Sanitation,2017,7.70471,14787673.23211,Unimproved
+m49,Europe,urban,Sanitation,2017,1.13366,6274638.23337,Unimproved
+m49,Europe,total,Drinking water,2017,5.33049,39734264.47917,Basic service
+m49,Europe,rural,Drinking water,2017,9.77676,18764569.62162,Basic service
+m49,Europe,urban,Drinking water,2017,3.78867,20969695.21286,Basic service
+m49,Europe,total,Drinking water,2017,0.61355,4573455.96354,Limited service
+m49,Europe,rural,Drinking water,2017,0.48547,931771.54755,Limited service
+m49,Europe,urban,Drinking water,2017,0.65796,3641684.45786,Limited service
+m49,Europe,total,Drinking water,2017,93.35512,695882828.73044,Safely managed service
+m49,Europe,rural,Drinking water,2017,87.79315,168501641.22455,Safely managed service
+m49,Europe,urban,Drinking water,2017,95.28383,527381193.82882,Safely managed service
+m49,Europe,total,Drinking water,2017,0.05216,388796.19793,Surface water
+m49,Europe,rural,Drinking water,2017,0.03075,59023.9434,Surface water
+m49,Europe,urban,Drinking water,2017,0.05958,329772.25787,Surface water
+m49,Europe,total,Drinking water,2017,0.64869,4835414.02891,Unimproved
+m49,Europe,rural,Drinking water,2017,1.91386,3673273.04945,Unimproved
+m49,Europe,urban,Drinking water,2017,0.20997,1162135.37764,Unimproved
+m49,Europe,total,Sanitation,2018,18.96024,141522885.47432,Basic service
+m49,Europe,rural,Sanitation,2018,43.11617,82204681.64704,Basic service
+m49,Europe,urban,Sanitation,2018,17.40452,96727490.49089,Basic service
+m49,Europe,total,Sanitation,2018,0.88919,6637122.3138,Limited service
+m49,Europe,rural,Sanitation,2018,0.95663,1823896.79013,Limited service
+m49,Europe,urban,Sanitation,2018,0.86606,4813225.49493,Limited service
+m49,Europe,total,Sanitation,2018,0.00163,12194.39463,Open defecation
+m49,Europe,rural,Sanitation,2018,0.0064,12194.39492,Open defecation
+m49,Europe,urban,Sanitation,2018,0,0,Open defecation
+m49,Europe,total,Sanitation,2018,77.41782,577861662.51324,Safely managed service
+m49,Europe,rural,Sanitation,2018,48.42614,92328605.98762,Safely managed service
+m49,Europe,urban,Sanitation,2018,80.63249,448123766.81447,Safely managed service
+m49,Europe,total,Sanitation,2018,2.73111,20385569.60401,Unimproved
+m49,Europe,rural,Sanitation,2018,7.49467,14289232.15949,Unimproved
+m49,Europe,urban,Sanitation,2018,1.09694,6096335.58282,Unimproved
+m49,Europe,total,Drinking water,2018,5.30356,39586824.72215,Basic service
+m49,Europe,rural,Drinking water,2018,9.73839,18567083.64111,Basic service
+m49,Europe,urban,Drinking water,2018,3.78216,21019740.89526,Basic service
+m49,Europe,total,Drinking water,2018,0.60475,4514006.95698,Limited service
+m49,Europe,rural,Drinking water,2018,0.47702,909472.86278,Limited service
+m49,Europe,urban,Drinking water,2018,0.64858,3604534.0748,Limited service
+m49,Europe,total,Drinking water,2018,93.42916,697373406.14371,Safely managed service
+m49,Europe,rural,Drinking water,2018,87.96042,167704119.87217,Safely managed service
+m49,Europe,urban,Drinking water,2018,95.30526,529669283.32014,Safely managed service
+m49,Europe,total,Drinking water,2018,0.04592,342743.65924,Surface water
+m49,Europe,rural,Drinking water,2018,0.00148,2813.25532,Surface water
+m49,Europe,urban,Drinking water,2018,0.06116,339930.40264,Surface water
+m49,Europe,total,Drinking water,2018,0.6166,4602452.81867,Unimproved
+m49,Europe,rural,Drinking water,2018,1.82269,3475121.34744,Unimproved
+m49,Europe,urban,Drinking water,2018,0.20284,1127329.69026,Unimproved
+m49,Europe,total,Sanitation,2019,23.68948,177003691.99888,Basic service
+m49,Europe,rural,Sanitation,2019,42.59168,80612945.74805,Basic service
+m49,Europe,urban,Sanitation,2019,17.277,96390748.15165,Basic service
+m49,Europe,total,Sanitation,2019,0.88709,6628160.99435,Limited service
+m49,Europe,rural,Sanitation,2019,0.95271,1803178.25549,Limited service
+m49,Europe,urban,Sanitation,2019,0.86483,4824982.81862,Limited service
+m49,Europe,total,Sanitation,2019,0.0016,11968.4897,Open defecation
+m49,Europe,rural,Sanitation,2019,0.00632,11968.48969,Open defecation
+m49,Europe,urban,Sanitation,2019,0,0,Open defecation
+m49,Europe,total,Sanitation,2019,72.78833,543861933.42544,Safely managed service
+m49,Europe,rural,Sanitation,2019,49.21833,93155155.53051,Safely managed service
+m49,Europe,urban,Sanitation,2019,80.78434,450706784.85454,Safely managed service
+m49,Europe,total,Sanitation,2019,2.6335,19677078.89162,Unimproved
+m49,Europe,rural,Sanitation,2019,7.23097,13686002.43055,Unimproved
+m49,Europe,urban,Sanitation,2019,1.07383,5991070.80113,Unimproved
+m49,Europe,total,Drinking water,2019,5.27436,39409110.54548,Basic service
+m49,Europe,rural,Drinking water,2019,9.69238,18344701.2997,Basic service
+m49,Europe,urban,Drinking water,2019,3.77557,21064409.66569,Basic service
+m49,Europe,total,Drinking water,2019,0.5965,4456979.37329,Limited service
+m49,Europe,rural,Drinking water,2019,0.47019,889915.7231,Limited service
+m49,Europe,urban,Drinking water,2019,0.63936,3567063.70642,Limited service
+m49,Europe,total,Drinking water,2019,93.49654,698590085.54418,Safely managed service
+m49,Europe,rural,Drinking water,2019,88.10531,166756257.04362,Safely managed service
+m49,Europe,urban,Drinking water,2019,95.32549,531833837.09942,Safely managed service
+m49,Europe,total,Drinking water,2019,0.0472,352675.51364,Surface water
+m49,Europe,rural,Drinking water,2019,0.00144,2730.0774,Surface water
+m49,Europe,urban,Drinking water,2019,0.06272,349945.44135,Surface water
+m49,Europe,total,Drinking water,2019,0.5854,4373982.82341,Unimproved
+m49,Europe,rural,Drinking water,2019,1.73068,3275646.31029,Unimproved
+m49,Europe,urban,Drinking water,2019,0.19686,1098330.71362,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2000,8.41442,53302124.53408,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2000,2.78888,12088387.63532,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2000,20.60558,41213736.76767,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2000,15.17019,96097389.48662,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2000,8.47346,36728178.37846,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2000,29.68274,59369210.76524,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2000,32.29815,204596499.6787,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2000,42.81085,185563378.61149,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2000,9.51596,19033119.57364,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2000,14.29702,90566171.56527,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2000,13.53512,58667897.38593,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2000,15.94814,31898273.68543,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2000,29.82023,188899802.73534,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2000,32.39169,140401606.66836,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2000,24.24758,48498196.82302,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2000,27.76704,175893652.29082,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2000,23.79322,103131563.04947,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2000,36.37876,72762088.35833,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2000,9.0031,57031246.26709,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2000,8.84228,38326822.3331,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2000,9.35163,18704423.61301,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2000,17.05964,108066342.7042,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2000,6.23538,27027220.30506,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2000,40.51702,81039122.11512,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2000,18.71044,118523531.71284,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2000,25.67927,111306654.53393,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2000,3.60821,7216876.28632,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2000,27.45977,173947215.02631,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2000,35.44985,153657188.45845,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2000,10.14438,20290027.24222,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2001,8.55541,55625539.37749,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2001,2.82677,12493710.76351,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2001,20.71636,43131828.2207,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2001,15.39464,100092801.62852,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2001,8.54496,37766813.52678,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2001,29.93538,62325987.7724,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2001,31.58704,205372416.141,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2001,42.0871,186015558.64609,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2001,9.29716,19356859.50087,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2001,14.59207,94874619.12496,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2001,13.77661,60889552.42763,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2001,16.32314,33985067.00505,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2001,29.87083,194213995.22868,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2001,32.76455,144811993.90862,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2001,23.72795,49402000.28577,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2001,28.31884,184123281.70055,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2001,24.52179,108380809.09467,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2001,36.37937,75742472.96111,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2001,9.2878,60387371.45003,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2001,9.21391,40723439.17794,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2001,9.44465,19663932.51658,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2001,17.41102,113202867.21772,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2001,6.4151,28353318.4726,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2001,40.75352,84849548.01705,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2001,18.27175,118799132.71427,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2001,25.19411,111352334.68549,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2001,3.57672,7446799.28205,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2001,26.71059,173666718.41808,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2001,34.65509,153167727.8415,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2001,9.84573,20498990.00802,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2002,8.68788,57978132.76005,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2002,2.86676,12916798.60724,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2002,20.78722,45061334.30395,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2002,15.56124,103847179.85408,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2002,8.56807,38605222.39696,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2002,30.09673,65241957.93068,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2002,30.85677,205921110.49095,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2002,41.32165,186183258.11438,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2002,9.10526,19737854.75518,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2002,14.93163,99645447.08119,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2002,14.0846,63461057.77808,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2002,16.6922,36184390.10472,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2002,29.96248,199953065.81307,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2002,33.15891,149404340.26469,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2002,23.3186,50548722.03246,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2002,28.81672,192306928.03246,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2002,25.21184,113597155.32885,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2002,36.30956,78709774.13358,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2002,9.53017,63599079.22908,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2002,9.60178,43262793.98107,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2002,9.38132,20336285.79544,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2002,17.87748,119304431.43129,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2002,6.62923,29869378.61521,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2002,41.25723,89435053.17013,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2002,17.65077,117791509.59301,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2002,24.46821,110246595.69971,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2002,3.48054,7544915.30263,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2002,26.12487,174342987.71416,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2002,34.08894,153594753.53652,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2002,9.57135,20748230.72521,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2003,8.81573,60389722.87396,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2003,2.90288,13333448.8714,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2003,20.84869,47056274.03292,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2003,15.7215,107695720.02683,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2003,8.58838,39447982.95105,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2003,30.23776,68247737.01523,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2003,30.12337,206351717.97406,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2003,40.54575,186234034.00019,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2003,8.91332,20117683.04509,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2003,15.28247,104688254.09083,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2003,14.40502,66164883.94019,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2003,17.06812,38523369.88693,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2003,30.05693,205896591.035,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2003,33.55798,154137955.40541,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2003,22.93212,51758632.46313,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2003,29.29966,200709114.07915,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2003,25.8904,118919343.43015,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2003,36.23767,81789770.20247,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2003,9.76707,66906607.24929,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2003,9.99236,45896747.93354,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2003,9.3086,21009859.12102,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2003,18.35776,125754719.00899,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2003,6.86215,31519127.78813,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2003,41.7519,94235591.25683,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2003,17.0267,116636633.81371,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2003,23.74003,109042294.84502,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2003,3.36474,7594338.41607,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2003,25.5488,175014931.84886,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2003,33.51506,153940791.17186,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2003,9.33708,21074137.44713,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2004,8.94595,62915676.24911,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2004,2.93755,13755040.71423,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2004,20.91607,49160636.17265,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2004,15.88469,111714860.10125,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2004,8.61473,40338394.19034,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2004,30.36809,71376466.83357,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2004,29.38623,206669417.14923,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2004,39.76073,186179160.25423,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2004,8.71786,20490257.13352,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2004,15.6346,109956063.56517,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2004,14.7227,68938884.19619,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2004,17.45132,41017179.89278,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2004,30.14853,212030540.93523,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2004,33.96429,159037390.77568,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2004,22.54666,52993149.55527,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2004,29.74115,209165515.69144,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2004,26.58138,124466997.14586,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2004,36.03614,84698519.62895,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2004,9.9902,70259730.87112,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2004,10.37704,48590353.88481,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2004,9.21953,21669377.26138,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2004,18.89758,132904120.48705,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2004,7.10196,33254832.12288,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2004,42.39715,99649289.6564,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2004,16.4064,115384008.25062,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2004,23.01155,107751303.14853,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2004,3.24744,7632705.18506,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2004,24.96467,175573182.69977,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2004,32.92808,154185383.82858,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2004,9.09973,21387797.85625,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2005,9.07859,65565339.27917,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2005,2.97436,14197571.12842,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2005,20.978,51367768.89178,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2005,16.05179,115925546.74999,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2005,8.64023,41242602.357,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2005,30.49964,74682945.61213,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2005,28.64218,206852976.02153,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2005,38.96403,185987824.45783,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2005,8.52108,20865153.09916,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2005,15.99328,115503032.75067,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2005,15.04517,71815437.36777,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2005,17.8415,43687596.42286,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2005,30.23415,218350178.09864,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2005,34.3762,164088644.90686,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2005,22.15978,54261534.31343,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2005,30.1774,217940294.9672,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2005,27.27664,130200138.84029,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2005,35.83205,87740158.11896,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2005,10.20627,73709359.92091,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2005,10.76254,51373044.36539,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2005,9.12189,22336316.18735,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2005,19.4554,140506335.62649,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2005,7.34844,35076458.64056,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2005,43.05633,105429878.54802,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2005,15.77059,113894713.08048,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2005,22.25675,106238622.84557,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2005,3.12666,7656091.05832,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2005,24.39035,176146369.30492,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2005,32.35563,154443815.52511,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2005,8.86307,21702554.4267,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2006,9.21295,68339945.42635,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2006,3.01301,14664203.90901,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2006,21.04236,53675742.91719,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2006,16.22168,120329368.59256,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2006,8.67122,42202530.73468,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2006,30.62786,78126840.18432,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2006,27.89309,206905619.6026,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2006,38.15359,185692279.95218,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2006,8.31621,21213342.69311,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2006,16.35938,121350794.45349,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2006,15.37212,74815622.89028,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2006,18.24306,46535173.63651,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2006,30.31289,224855291.725,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2006,34.79007,169322149.99677,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2006,21.77051,55533142.38572,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2006,30.57359,226789117.23067,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2006,27.93938,135980045.43199,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2006,35.59964,90809075.70561,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2006,10.41011,77220202.62169,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2006,11.14393,54237127.30778,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2006,9.00999,22983076.5774,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2006,20.07056,148879607.02498,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2006,7.6502,37233295.62145,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2006,43.76841,111646314.40895,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2006,15.14105,112313439.81986,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2006,21.5035,104656837.50182,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2006,3.0016,7656603.93713,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2006,23.80469,176578653.10279,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2006,31.763,154589481.62085,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2006,8.62036,21989171.1875,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2007,9.34076,71180464.33722,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2007,3.04884,15141845.01892,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2007,21.11492,56038620.04965,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2007,16.3865,124871941.42772,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2007,8.70441,43229861.50154,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2007,30.76211,81642081.18621,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2007,27.17807,207108220.12829,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2007,37.36679,185579697.72547,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2007,8.11178,21528524.342,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2007,16.70993,127336635.79316,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2007,15.68712,77909048.48966,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2007,18.62394,49427588.54342,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2007,30.38474,231544313.31437,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2007,35.19284,174782926.5377,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2007,21.38725,56761383.73692,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2007,30.93278,235720630.09052,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2007,28.55992,141840957.31239,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2007,35.37314,93879675.07734,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2007,10.60939,80847938.25027,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2007,11.53036,57264781.48662,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2007,8.88595,23583157.5409,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2007,20.69507,157704999.27556,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2007,7.97401,39602383.47906,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2007,44.50016,118102617.40816,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2007,14.52647,110697752.87503,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2007,20.75291,103067943.28165,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2007,2.87485,7629810.62505,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2007,23.2363,177070254.50862,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2007,31.1828,154867313.71358,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2007,8.3659,22202937.20701,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2008,9.48491,74265013.75816,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2008,3.08796,15628912.70904,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2008,21.17922,58636101.03311,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2008,16.56764,129721362.21211,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2008,8.74112,44240879.72469,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2008,30.87535,85480482.20968,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2008,26.41401,206816531.51251,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2008,36.53578,184916219.27015,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2008,7.91034,21900310.11458,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2008,17.08013,133734106.79582,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2008,16.01228,81041960.8251,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2008,19.03228,52692145.16231,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2008,30.45331,238443449.72219,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2008,35.62286,180295728.04032,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2008,21.00282,58147721.80974,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2008,31.28361,244944591.74779,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2008,29.1904,147739547.27747,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2008,35.11023,97205043.00086,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2008,10.79987,84560880.87915,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2008,11.91209,60289926.12803,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2008,8.76661,24270954.10729,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2008,21.37952,167397434.86184,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2008,8.32043,42111677.58459,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2008,45.25292,125285757.14027,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2008,13.89496,108794783.80339,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2008,19.99338,101191219.15297,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2008,2.74639,7603563.47302,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2008,22.64204,177282772.70705,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2008,30.5837,154791330.42624,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2008,8.12386,22491442.60797,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2009,9.65555,77687421.4292,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2009,3.12616,16124206.18902,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2009,21.3165,61563215.15405,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2009,16.74724,134746281.17566,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2009,8.77904,45280766.91616,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2009,30.97778,89465513.86622,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2009,25.65288,206400016.6367,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2009,35.70332,184151602.66583,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2009,7.7036,22248411.7547,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2009,17.43122,140249528.81975,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2009,16.33656,84261187.22223,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2009,19.38618,55988340.66646,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2009,30.51312,245504957.93949,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2009,36.05491,185965029.28266,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2009,20.61593,59539926.12777,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2009,31.61227,254348578.26173,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2009,29.81006,153755162.12327,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2009,34.83086,100593414.43649,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2009,10.98182,88358447.76829,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2009,12.29281,63404191.68554,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2009,8.64051,24954255.35107,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2009,22.08909,177726236.53118,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2009,8.68124,44776365.69645,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2009,46.03441,132949870.52635,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2009,13.26701,106744806.30805,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2009,19.23058,99188040.1305,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2009,2.61656,7556764.97621,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2009,22.04981,177410137.13075,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2009,29.9853,154659032.64015,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2009,7.87766,22751102.27908,Unimproved
+m49,Sub-Saharan Africa,total,Sanitation,2010,9.82602,81246964.4479,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2010,3.16388,16628717.43502,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2010,21.44825,64618246.4771,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2010,16.92611,139954466.85309,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2010,8.81671,46338889.92606,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2010,31.07311,93615576.16053,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2010,24.89444,205841044.53084,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2010,34.86937,183266489.94952,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2010,7.493,22574554.4745,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2010,17.78903,147089518.89336,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2010,16.65979,87560571.99842,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2010,19.75899,59528946.43409,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2010,30.5644,252723383.27482,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2010,36.49025,191785507.00577,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2010,20.22665,60937871.47608,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2010,31.91741,263910813.20519,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2010,30.41776,159869719.70262,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2010,34.53357,104041092.69977,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2010,11.1549,92234881.54697,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2010,12.6724,66603609.26467,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2010,8.50759,25631272.0969,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2010,22.82563,188734929.15787,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2010,9.05621,47597658.58886,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2010,46.84663,141137269.40336,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2010,12.64712,104573369.64384,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2010,18.47254,97087987.71958,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2010,2.48457,7485381.90522,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2010,21.45495,177401384.44613,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2010,29.38109,154421201.03908,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2010,7.62764,22980178.91645,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2011,22.42561,192772934.97509,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2011,14.55341,79109649.03588,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2011,35.96609,113663285.47299,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2011,38.037,326970030.15493,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2011,40.96839,222696562.43928,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2011,32.9949,104273467.12203,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2011,39.53739,339867540.63414,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2011,44.4782,241775257.11193,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2011,31.03901,98092282.92788,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2011,9.91086,85194815.48945,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2011,3.17102,17237093.45841,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2011,21.50363,67957721.78505,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2011,16.97803,145944913.98992,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2011,8.7878,47768868.32835,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2011,31.06551,98176045.2813,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2011,24.67701,212126158.95816,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2011,34.68306,188530692.36031,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2011,7.46623,23595466.3106,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2011,17.99636,154698560.73443,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2011,16.77685,91195866.9647,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2011,20.09394,63502693.45713,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2011,30.43775,261646058.82805,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2011,36.58126,198848947.4748,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2011,19.87068,62797108.68851,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2011,32.25115,277234315.25971,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2011,31.08588,168977070.50963,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2011,34.25547,108257244.20218,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2011,11.47753,98662095.86635,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2011,13.22922,71911613.1954,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2011,8.46456,26750482.50213,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2011,23.35977,200803054.47575,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2011,9.3356,50746575.85506,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2011,47.48186,150056478.06389,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2011,12.13458,104310128.42212,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2011,17.78595,96681115.72121,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2011,2.41402,7629012.56889,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2011,20.77696,178600913.97607,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2011,28.56335,155265093.3058,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2011,7.38407,23335818.18581,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2012,24.70985,218304814.29121,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2012,16.97934,94070203.0929,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2012,37.71023,124234610.51065,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2012,37.40292,330444543.7138,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2012,40.50709,224420338.07313,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2012,32.18264,106024204.32574,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2012,37.88723,334723340.37701,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2012,42.51357,235536808.76807,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2012,30.10713,99186530.24994,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2012,10.09638,89198749.34171,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2012,3.21978,17838476.56977,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2012,21.66073,71360272.55913,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2012,17.15449,151555207.60569,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2012,8.82909,48915556.08736,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2012,31.15529,102639651.09543,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2012,23.92932,211408982.8127,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2012,33.8612,187600315.94621,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2012,7.22689,23808665.87829,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2012,18.35068,162123270.95242,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2012,17.08816,94673056.30475,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2012,20.47387,67450214.05387,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2012,30.46913,269186485.38748,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2012,37.00177,204999945.02601,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2012,19.48321,64186541.49896,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2012,32.47398,286898789.20446,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2012,31.62654,175219673.3557,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2012,33.89913,111679114.77254,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2012,11.65929,103006681.18161,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2012,13.64792,75613232.2538,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2012,8.31502,27393448.49907,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2012,24.15495,213402416.37403,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2012,9.74477,53988715.49945,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2012,48.38851,159413700.32786,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2012,11.51849,101762690.16673,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2012,17.0185,94287154.81466,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2012,2.26913,7475534.86385,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2012,20.19328,178402119.17317,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2012,27.96226,154918574.01049,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2012,7.12821,23483546.62301,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2013,24.9474,226505928.10454,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2013,17.18011,96998633.3798,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2013,37.72032,129507292.4957,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2013,37.51459,340607688.46725,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2013,40.65081,229513795.12967,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2013,32.35723,111093893.0782,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2013,37.53801,340820313.06069,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2013,42.16908,238085911.71903,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2013,29.92244,102734401.3932,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2013,10.28705,93399652.05629,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2013,3.26968,18460544.63498,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2013,21.82678,74939105.70584,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2013,17.32969,157342154.97861,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2013,8.86998,50079754.14261,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2013,31.24127,107262398.64753,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2013,23.18504,210504866.20511,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2013,33.03552,186517996.7008,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2013,6.98642,23986870.99585,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2013,18.70619,169839880.89682,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2013,17.39765,98226848.43244,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2013,20.85803,71613031.7357,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2013,30.49202,276847378.86318,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2013,37.42717,211313196.31767,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2013,19.0875,65534179.88218,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2013,32.67276,296647045.70938,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2013,32.15377,181539656.40391,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2013,33.5262,115107388.40057,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2013,11.83388,107443825.19655,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2013,14.06878,79432083.67899,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2013,8.15871,28011741.69572,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2013,24.97512,226757619.08223,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2013,10.16889,57413403.96182,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2013,49.32323,169344211.42046,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2013,10.90046,98968934.3742,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2013,16.24392,91712896.18355,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2013,2.1134,7256039.04091,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2013,19.61778,178116508.63764,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2013,27.36464,154500299.99968,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2013,6.87846,23616206.40944,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2014,24.35841,227257917.68796,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2014,16.80433,96664857.96373,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2014,36.50531,130593059.28953,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2014,39.66521,370066519.82414,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2014,42.7746,246055687.38125,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2014,34.66535,124010831.98194,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2014,35.97638,335650612.62395,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2014,40.42107,232517314.48122,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2014,28.82935,103133297.75053,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2014,10.48057,97781077.91768,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2014,3.31942,19094550.45914,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2014,21.99562,78686527.209,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2014,17.50467,163314190.40416,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2014,8.91177,51263886.12503,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2014,31.32196,112050303.91656,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2014,22.44088,209367849.59919,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2014,32.20245,185240661.23731,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2014,6.74439,24127188.22953,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2014,19.0638,177860529.28492,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2014,17.70582,101850556.43355,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2014,21.24743,76009972.58464,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2014,30.51008,284651402.69313,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2014,37.86055,217788205.57118,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2014,18.69059,66863197.08263,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2014,32.84732,306457319.40622,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2014,32.66783,187917701.39348,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2014,33.13595,118539617.5868,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2014,12.00103,111966623.41669,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2014,14.49142,83360115.37907,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2014,7.99651,28606507.92277,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2014,25.82031,240897076.90561,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2014,10.60741,61017835.46386,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2014,50.28251,179879240.86587,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2014,10.29315,96032507.23567,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2014,15.47084,88994140.80618,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2014,1.96747,7038366.38051,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2014,19.03819,177621522.93581,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2014,26.76251,153948066.7842,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2014,6.61756,23673456.26605,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2015,24.84806,238187813.33894,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2015,17.06334,99978340.77601,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2015,37.08805,138209472.71519,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2015,40.30847,386387848.72387,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2015,43.48813,254807811.03878,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2015,35.30907,131580037.30461,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2015,34.84347,334001533.82288,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2015,39.44853,231138772.16041,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2015,27.60288,102862761.26007,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2015,10.67551,102332990.89393,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2015,3.36877,19738470.80264,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2015,22.16397,82594520.31405,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2015,17.68019,169478255.00434,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2015,8.95379,52462497.37342,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2015,31.40079,117015757.8651,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2015,21.69672,207979846.07311,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2015,31.36163,183755635.88113,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2015,6.50049,24224209.67161,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2015,19.42451,186198966.25869,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2015,18.01418,105549564.6357,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2015,21.642,80649401.55605,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2015,30.52306,292587139.86993,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2015,38.30162,224418755.28289,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2015,18.29276,68168381.87269,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2015,33.0029,316358263.25011,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2015,33.17001,194351335.58976,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2015,32.74015,122006927.44514,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2015,12.15962,116559339.09464,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2015,14.91476,87389267.59736,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2015,7.82769,29170071.31127,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2015,26.68696,255815161.14404,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2015,11.05995,64803016.78438,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2015,51.25748,191012144.8115,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2015,9.69186,92903929.14162,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2015,14.69832,86121106.60721,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2015,1.82015,6782822.27498,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2015,18.45866,176940505.46959,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2015,26.15697,153260197.39648,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2015,6.35453,23680305.43699,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2016,25.3602,249730442.15615,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2016,17.44256,104071363.87664,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2016,37.5331,145659079.00267,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2016,40.57022,399508556.64407,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2016,43.7246,260883697.07896,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2016,35.72054,138624861.65327,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2016,34.06958,335494539.906,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2016,38.83284,231696865.70881,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2016,26.74635,103797676.07455,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2016,10.87267,107066802.73343,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2016,3.41829,20395313.35377,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2016,22.33331,86671489.45116,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2016,17.85568,175830891.66281,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2016,8.99655,53678062.67115,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2016,31.47607,122152829.30792,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2016,20.95301,206331309.26632,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2016,30.513,182056420.73553,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2016,6.2551,24274890.07513,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2016,19.78679,194847121.01494,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2016,18.32068,109310690.57033,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2016,22.04084,85536431.28603,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2016,30.53186,300657418.62251,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2016,38.75148,231211439.33302,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2016,17.89468,69445976.61066,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2016,33.13494,326290895.36149,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2016,33.6595,200830082.05959,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2016,32.32846,125460814.88595,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2016,12.31066,121227236.59284,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2016,15.33935,91522506.67103,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2016,7.65425,29704730.67733,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2016,27.57834,271573136.26068,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2016,11.52717,68777090.13405,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2016,52.25603,202796046.47493,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2016,9.09748,89585901.74793,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2016,13.92691,83095170.74084,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2016,1.67252,6490731.71767,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2016,17.87858,176056373.33705,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2016,25.54707,152427077.05889,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2016,6.08874,23629292.97423,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2017,25.55573,258478065.58283,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2017,17.55568,106632514.46414,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2017,37.58247,151845551.88057,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2017,40.47906,409417006.59021,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2017,43.69735,265416043.78659,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2017,35.6409,144000964.64749,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2017,33.96521,343534005.75858,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2017,38.74697,235347648.90468,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2017,26.77662,108186358.48444,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2017,11.08467,112113624.12104,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2017,3.47478,21105654.27648,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2017,22.52489,91007970.00892,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2017,18.05573,182620921.57282,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2017,9.05822,55019304.82541,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2017,31.58199,127601617.15214,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2017,20.04238,202714461.83789,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2017,29.43922,178812678.96809,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2017,5.9158,23901784.09581,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2017,20.18769,204184145.85763,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2017,18.66629,113378343.93921,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2017,22.47485,90805802.71321,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2017,30.62953,309795926.61062,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2017,39.36149,239080225.14621,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2017,17.50246,70715701.04242,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2017,33.28694,336673740.82212,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2017,34.17562,207581448.75928,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2017,31.95094,129092293.5092,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2017,12.44817,125904375.85522,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2017,15.75031,95666770.83427,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2017,7.48395,30237605.68024,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2017,28.47356,287989837.34095,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2017,12.02126,73016680.89286,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2017,53.20685,214973156.99592,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2017,8.48395,85809185.87506,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2017,13.10973,79628031.8321,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2017,1.52986,6181154.587,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2017,17.30739,175051940.10665,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2017,24.94307,151503274.83629,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2017,5.8284,23548664.24013,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2018,25.85685,268556309.74706,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2018,17.73601,109630368.17556,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2018,37.79415,158925943.43248,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2018,40.54528,421114281.11231,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2018,43.79258,270692084.16524,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2018,35.77187,150422197.27179,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2018,33.59787,348956628.92148,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2018,38.47141,237800657.99259,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2018,26.43398,111155970.84273,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2018,11.25736,116922026.42424,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2018,3.50233,21648724.97735,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2018,22.65693,95273302.94208,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2018,18.25216,189571922.74038,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2018,9.10772,56296904.89702,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2018,31.69411,133275019.71094,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2018,19.33614,200830386.10866,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2018,28.62726,176951711.24004,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2018,5.67858,23878673.76642,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2018,20.47682,212677805.918,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2018,18.87316,116659387.14659,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2018,22.83412,96018419.46182,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2018,30.67752,318625078.80873,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2018,39.88953,246566382.073,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2018,17.13626,72058695.66574,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2018,33.68956,349908915.82926,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2018,34.63149,214065230.08639,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2018,32.30496,135843686.29723,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2018,12.59835,130849856.71064,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2018,16.18332,100032864.03053,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2018,7.32858,30816992.36217,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2018,29.08518,302086558.24348,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2018,12.51661,77368066.60188,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2018,53.44026,224718494.94175,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2018,7.90412,82094296.39191,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2018,12.34095,76282271.62538,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2018,1.38216,5812024.21206,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2018,16.7228,173687592.82575,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2018,24.32763,150374677.98982,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2018,5.54404,23312913.73338,Unimproved
+m49,Sub-Saharan Africa,total,Hygiene,2019,26.00796,277318578.35346,Basic service
+m49,Sub-Saharan Africa,rural,Hygiene,2019,17.80654,111966989.63141,Basic service
+m49,Sub-Saharan Africa,urban,Hygiene,2019,37.79582,165351589.85864,Basic service
+m49,Sub-Saharan Africa,total,Hygiene,2019,40.40317,430812327.61446,Limited service
+m49,Sub-Saharan Africa,rural,Hygiene,2019,43.68655,274699682.25,Limited service
+m49,Sub-Saharan Africa,urban,Hygiene,2019,35.68399,156112643.5725,Limited service
+m49,Sub-Saharan Africa,total,Hygiene,2019,33.58887,358152511.63399,No handwashing facility
+m49,Sub-Saharan Africa,rural,Hygiene,2019,38.50691,242130248.39739,No handwashing facility
+m49,Sub-Saharan Africa,urban,Hygiene,2019,26.52019,116022261.26197,No handwashing facility
+m49,Sub-Saharan Africa,total,Sanitation,2019,11.45413,122133470.27372,Basic service
+m49,Sub-Saharan Africa,rural,Sanitation,2019,3.55188,22334094.25013,Basic service
+m49,Sub-Saharan Africa,urban,Sanitation,2019,22.81199,99799377.47605,Basic service
+m49,Sub-Saharan Africa,total,Sanitation,2019,18.41662,196373400.17005,Limited service
+m49,Sub-Saharan Africa,rural,Sanitation,2019,9.14892,57528122.24008,Limited service
+m49,Sub-Saharan Africa,urban,Sanitation,2019,31.73704,138845279.50274,Limited service
+m49,Sub-Saharan Africa,total,Sanitation,2019,18.64787,198839164.01407,Open defecation
+m49,Sub-Saharan Africa,rural,Sanitation,2019,27.80299,174824335.06625,Open defecation
+m49,Sub-Saharan Africa,urban,Sanitation,2019,5.48927,24014826.42538,Open defecation
+m49,Sub-Saharan Africa,total,Sanitation,2019,20.81669,221964889.09326,Safely managed service
+m49,Sub-Saharan Africa,rural,Sanitation,2019,19.16001,120477523.90938,Safely managed service
+m49,Sub-Saharan Africa,urban,Sanitation,2019,23.19783,101487365.004,Safely managed service
+m49,Sub-Saharan Africa,total,Sanitation,2019,30.66469,326972490.44891,Unimproved
+m49,Sub-Saharan Africa,rural,Sanitation,2019,40.33621,253632844.81296,Unimproved
+m49,Sub-Saharan Africa,urban,Sanitation,2019,16.76387,73339646.28449,Unimproved
+m49,Sub-Saharan Africa,total,Drinking water,2019,34.16173,364260860.25904,Basic service
+m49,Sub-Saharan Africa,rural,Drinking water,2019,35.09287,220662913.6085,Basic service
+m49,Sub-Saharan Africa,urban,Drinking water,2019,32.8234,143597945.54518,Basic service
+m49,Sub-Saharan Africa,total,Drinking water,2019,12.7472,135921321.85786,Limited service
+m49,Sub-Saharan Africa,rural,Drinking water,2019,16.61481,104473422.84669,Limited service
+m49,Sub-Saharan Africa,urban,Drinking water,2019,7.18831,31447897.81704,Limited service
+m49,Sub-Saharan Africa,total,Drinking water,2019,29.6203,315836337.31859,Safely managed service
+m49,Sub-Saharan Africa,rural,Drinking water,2019,13.00512,81775764.90263,Safely managed service
+m49,Sub-Saharan Africa,urban,Drinking water,2019,53.50121,234060575.32549,Safely managed service
+m49,Sub-Saharan Africa,total,Drinking water,2019,7.35421,78416728.20284,Surface water
+m49,Sub-Saharan Africa,rural,Drinking water,2019,11.59261,72893972.88107,Surface water
+m49,Sub-Saharan Africa,urban,Drinking water,2019,1.26238,5522754.18739,Surface water
+m49,Sub-Saharan Africa,total,Drinking water,2019,16.11656,171848166.36167,Unimproved
+m49,Sub-Saharan Africa,rural,Drinking water,2019,23.69459,148990846.03928,Unimproved
+m49,Sub-Saharan Africa,urban,Drinking water,2019,5.22469,22857321.818,Unimproved
